@@ -1,7 +1,3 @@
-Tabii, işte bir README örneği:
-
----
-
 # Yurt Dışına Çıkış Kontrol Uygulaması
 
 Bu Java projesi, kullanıcının yurt dışına çıkış yapabilmesi için gerekli kontrolleri yapar. Kullanıcıdan harç bedeli ödemesi, siyasi yasak olup olmadığı ve vize durumu gibi bilgileri alır ve bu bilgilere göre çıkış işleminin yapılıp yapılamayacağını belirler.
@@ -27,5 +23,3 @@ Bu Java projesi, kullanıcının yurt dışına çıkış yapabilmesi için gere
 Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
 
 ---
-
-Bu README dosyasını proje klasörüne ekleyerek, GitHub'da yeni bir repo oluşturabilir ve bu projeyi paylaşabilirsiniz.
